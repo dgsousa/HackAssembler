@@ -6,6 +6,3 @@ public class Main {
         FileParser fileParser = new FileParser(args);
     }
 }
-
-// TOdo
-// - write to a file
